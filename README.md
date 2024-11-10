@@ -1,6 +1,6 @@
 # Tamagotchi Embedded System Simulation
 
-PHOTO!!!
+![image](https://github.com/user-attachments/assets/4229fb0e-b02a-4df3-9258-8afd37c5f820)
 
 ## Overview
 
