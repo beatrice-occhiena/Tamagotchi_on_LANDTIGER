@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/4229fb0e-b02a-4df3-9258-8afd37c5f820)
 
+[📽️ italian-video-presentation](https://www.youtube.com/watch?v=KmEB9Hlj9Vo)
+
 ## Overview
 
 This project, developed for the *Computer Architectures* course at Politecnico di Torino, involves creating a virtual Tamagotchi game using an ARM-based board (LANDTIGER) and the Keil µVision emulator. The objective is to implement and simulate the behavior of a Tamagotchi, a virtual pet that requires attention to stay alive. This project involves the development of the pet's logic, the interaction interface, animations, sound effects, and the integration of input/output peripherals, as well as the use of advanced programming techniques in C and assembly.
